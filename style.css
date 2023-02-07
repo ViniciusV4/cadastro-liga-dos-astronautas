@@ -1,0 +1,22 @@
+h3{
+    text-decoration: double;
+    color: rgb(247, 247, 247);
+    font-family: 'press start 2p';
+    text-align: center;
+    font-size: 20px;
+   
+}
+
+div{
+    font-family:'georama';
+    font-size: 18px;
+    font-style: oblique;
+    font-weight: 600;
+    color: rgb(244, 248, 247);
+}
+
+body {
+    background-image: url('https://1.bp.blogspot.com/-lFuoKyX0its/XwCiaKzUfjI/AAAAAAAAztI/-U7q9WNzzVAX9ECzPt7FNwjHhqONGUGsACLcBGAsYHQ/w0/cosmonaut_astronaut_space_suit_137404_2560x1440.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
